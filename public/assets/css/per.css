@@ -1,0 +1,88 @@
+body {
+    background-color: #f0f1f0;
+}
+
+.perfil-card {
+    margin-top: 2em;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 3vh;
+    background-color: white;
+    width: 150vh;
+    height: auto;
+}
+
+.perfil-card h6,
+h4 {
+    color: #AB59FF;
+}
+
+.perfil-card img {
+    border-color: #AB59FF;
+}
+
+.seguir {
+    font-size: 19px;
+}
+
+.pub-card {
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    margin-top: 5vh;
+    border-radius: 3vh;
+    background-color: white;
+    width: 150vh;
+}
+
+#postes {
+    padding: 10px 10px 10px;
+}
+
+.pub-card h6 {
+    padding-bottom: 3vh;
+    color: #AB59FF;
+    padding-left: 10vh;
+    padding-top: 5vh;
+}
+
+.legenda-perfil input {
+    margin-left: 1vh;
+    outline: none;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-color: #AB59FF;
+}
+
+.legenda-perfil {
+    font-size: 2vh;
+    float: left;
+    padding-left: 10vh;
+}
+
+.foto {
+    font-size: 2vh;
+}
+
+.botao-enviar {
+    font-size: 2vh;
+    background-color: #AB59FF;
+    color: white;
+    border-radius: 1vh;
+    border: none;
+    outline: none;
+    width: 10vh;
+}
+
+.info-perfil {
+    padding-left: 2em;
+    padding-top: 2em;
+}
+
+.publicacoes {
+    padding-left: 1.5em;
+    padding-bottom: 1em;
+    padding-right: 1.5em;
+}
+
+.publicacoes img {
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.5);
+}

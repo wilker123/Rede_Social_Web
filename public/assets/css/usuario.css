@@ -1,0 +1,57 @@
+body {
+    background-color: #f5f5f5;
+}
+
+.perfil-card {
+    margin-top: 3vh;
+    margin-left: 5vh;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 3vh;
+    background-color: white;
+    width: 28em;
+    height: 11em;
+}
+
+.perfil-card button {
+    margin-left: 14em;
+}
+
+.perfil-card i {
+    color: #AB59FF;
+}
+
+.perfil-card h6,
+h4 {
+    color: #AB59FF;
+}
+
+.perfil-card img {
+    margin-right: 5vh;
+    padding-top: 5vh;
+    padding-left: 5vh;
+    float: left;
+    border-color: #AB59FF;
+}
+
+.seguidores {
+    padding-right: 10vh;
+    float: left;
+}
+
+.perso {
+    padding-right: 30vh;
+    padding-left: 30vh;
+    padding-top: 8vh;
+    padding-bottom: 12vh;
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-image: url(../imgs/imgFeed/FundoHomeImagiUni.png);
+}
+
+.fundo {
+    width: 100%;
+    height: 650px;
+    border-radius: 2vh;
+    background-color: white;
+}

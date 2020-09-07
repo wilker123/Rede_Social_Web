@@ -1,0 +1,82 @@
+body {
+    background-color: #F2F2F2;
+}
+
+#nome {
+    color: white;
+}
+
+.nav a {
+    color: white;
+}
+
+.feed {
+    width: 50em;
+    margin-right: 3vh;
+    margin-top: 4vh;
+    background-color: white;
+    top: 30px;
+    border: 2px;
+    border-radius: 3vh;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    margin-bottom: 1em;
+}
+
+.pub {
+    padding-top: 5vh;
+    padding-left: 5vh;
+}
+
+.nome-usuario {
+    color: #AB59FF;
+    padding-left: 2vh;
+    font-size: 3.5vh;
+}
+
+#comentarios-pub {
+    padding-top: 3vh;
+}
+
+#comment-icon {
+    padding-top: 3vh;
+    font-size: 3vh;
+}
+
+.verticalLine {
+    border-left: solid #ecf0f1;
+    margin-right: 1%;
+    margin-left: 1%;
+}
+
+.feedback {
+    padding-left: 7.5em;
+}
+
+.feedback span {
+    color: #AB59FF;
+    margin-bottom: 1em;
+}
+
+.feedback span:hover {
+    color: white;
+}
+
+.feedback span {
+    background-color: white;
+}
+
+.feedback span:hover {
+    background-color: #AB59FF;
+}
+
+::placeholder {
+    color: rgba(236, 240, 241, 0.3)
+}
+
+.feedback i {
+    padding-left: 0.5em;
+}
+
+.contend-middle {
+    padding-right: 2.5em;
+}

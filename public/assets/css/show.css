@@ -1,0 +1,17 @@
+.perso {
+    padding-right: 30vh;
+    padding-left: 30vh;
+    padding-top: 8vh;
+    padding-bottom: 12vh;
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-image: url(../imgs/imgFeed/FundoHomeImagiUni.png);
+}
+
+.fundo {
+    width: 100%;
+    height: 650px;
+    border-radius: 2vh;
+    background-color: white;
+}
