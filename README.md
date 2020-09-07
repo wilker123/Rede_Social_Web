@@ -9,11 +9,11 @@
 ![cdc](https://user-images.githubusercontent.com/47252771/92417362-17530200-f138-11ea-8e4a-562145f8ec2c.png)
 ![imgg](https://user-images.githubusercontent.com/47252771/92417365-18842f00-f138-11ea-9d8a-a7200ffad028.png)
 
-##Sobre
+## Sobre
 ***
 Este projeto foi desenvolvido para conclusão do bimestre, para compor a nota de Programação Web na **E.E.E.P Professora Luíza de Teodoro Vieira**.Meu docente disse para fazer uma aplicação Web em PHP e por em prática tudo que ele ensinou, então desenvolvi este site e para ampliar ainda mais meus conhecimentos, comecei a estudar uma nova tecnológia - **Laravel** - que ultilizei como base para este projeto.
 
-###Tecnológias que ultilizei:
+### Tecnológias que ultilizei:
 ***
 * Laravel
 * Ajax
